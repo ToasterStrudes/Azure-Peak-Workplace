@@ -37,8 +37,8 @@
 
 	var/current_mode = 1
 	var/list/modes = list(
-		list("name" = "Read Omen", "tag" = "OMEN", "icon" = "readomen", "invocation" = "Caelum Feri!"),
-		list("name" = "Orb of Wisdom", "tag" = "ORB", "icon" = "readomen", "invocation" = "Feri Fulmine Hostem!"),
+		list("name" = "Read Omen", "tag" = "OMEN", "icon" = "readomen", "invocation" = "Miror cur!"), //I wonder why
+		list("name" = "Orb of Wisdom", "tag" = "ORB", "icon" = "readomen", "invocation" = "Dic mihi cur!"), //Tell me why
 	)
 
 	var/list/reign_messages = list(
